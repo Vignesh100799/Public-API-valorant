@@ -1,0 +1,38 @@
+body h2{
+    text-align: center;
+    border: 1px solid;
+    padding: 20px;
+    width: 100%;
+    position: sticky;
+    color: white;
+    background: linear-gradient(223deg, rgba(149,0,255,1) 18%, rgba(0,117,255,1) 35%, rgba(149,0,255,1) 66%, rgba(0,117,255,1) 83%);
+
+
+}
+.c .wrap{
+    background: url("https://tasbihdigital.com/wp-content/uploads/2022/10/HD-Valorant-Wallpaper.jpg");
+    color: white;
+    padding: 15px;
+
+}
+.info{
+    background: url("https://images4.alphacoders.com/131/1319447.jpeg");
+    padding: 5px;
+    text-align: center;
+    
+}
+.more{
+    background: url("https://images4.alphacoders.com/131/1319447.jpeg");
+    color: white;
+    padding: 5px;
+}
+body{
+    background: url("https://i.pinimg.com/originals/6b/cc/df/6bccdf26bfb6203d9d12246fa98a22b4.png");
+}
+.c{
+    border: 2px solid white;
+    width: 100%;
+    height: 500px;
+    box-sizing: border-box;
+    padding: 20px;
+}
